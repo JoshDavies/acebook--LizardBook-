@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)  
+
 <h1 align="center">🦎 LizardBook</h1>
 
 <p align="center">
