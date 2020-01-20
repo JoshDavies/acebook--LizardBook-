@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#user-content-card-wall">Card Wall</a> •
-  <a href="#user-content-team-blog">Team Blog</a> •
   <a href="#user-content-quickstart">Quickstart</a> •
   <a href="#user-content-authors">Authors</a> •
   <a href="#user-content-user-stories">User Stories</a> •
@@ -16,15 +15,13 @@ A team based project, working to a client's brief, to create a social media plat
 <a href="https://lizardbook.herokuapp.com">Click here to view the app online!</a>
 
 ![Screenshot](https://github.com/Mezela/acebook--LizardBook-/blob/master/Screenshot%202019-11-11%20at%2015.22.31.png?raw=true)
+
 ------------
+
 ## Card Wall:
 https://trello.com/b/ODg1c9f4/lizardbook-by-team-lizard
 
-## Team Blog:
-https://medium.com/team-lizard
-
 ## Quickstart
-
 First, clone this repository. Then:
 
 ```bash
