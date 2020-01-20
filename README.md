@@ -36,12 +36,13 @@ First, clone this repository. Then:
 ```
 ------
 ## Authors
-- Heli Sivunen: https://github.com/PacificRebel
-- Josh Davies: https://github.com/JoshDavies
-- James Clark: https://github.com/jmhc22
-- Pamela Mezue: https://github.com/Mezela
-- Jess Lonsdale: https://github.com/jlonsdale
-- Duncan Skinner: https://github.com/Duncan9099
+- [Heli Sivunen](https://github.com/PacificRebel)
+- [Josh Davies](https://github.com/JoshDavies) 
+- [James Clark](https://github.com/jmhc22)
+- [Pamela Mezue](https://github.com/Mezela)
+- [Jess Lonsdale](https://github.com/jlonsdale)
+- [Duncan Skinner](https://github.com/Duncan9099)
+
 --------
 ## User Stories
 
